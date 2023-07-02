@@ -1,0 +1,731 @@
+id,tconst,ordering,nconst,category,job,characters
+0,tt1480055,10,nm0230361,producer,producer,
+1,tt1480055,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+2,tt1480055,2,nm0004692,actor,,"[""Robert Baratheon""]"
+3,tt1480055,3,nm0182666,actor,,"[""Jaime Lannister""]"
+4,tt1480055,4,nm0265610,actress,,"[""Catelyn Stark""]"
+5,tt1480055,5,nm0887700,director,,
+6,tt1480055,6,nm1125275,writer,created by,
+7,tt1480055,7,nm1888967,writer,created by,
+8,tt1480055,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+9,tt1480055,9,nm0122251,producer,producer,
+10,tt1668746,10,nm0400240,producer,producer,
+11,tt1668746,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+12,tt1668746,2,nm0004692,actor,,"[""Robert Baratheon""]"
+13,tt1668746,3,nm0182666,actor,,"[""Jaime Lannister""]"
+14,tt1668746,4,nm0265610,actress,,"[""Catelyn Stark""]"
+15,tt1668746,5,nm0887700,director,,
+16,tt1668746,6,nm1125275,writer,created by,
+17,tt1668746,7,nm1888967,writer,created by,
+18,tt1668746,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+19,tt1668746,9,nm0230361,producer,producer,
+20,tt1829962,10,nm0400240,producer,producer,
+21,tt1829962,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+22,tt1829962,2,nm0004692,actor,,"[""Robert Baratheon""]"
+23,tt1829962,3,nm0182666,actor,,"[""Jaime Lannister""]"
+24,tt1829962,4,nm0265610,actress,,"[""Catelyn Stark""]"
+25,tt1829962,5,nm1047532,director,,
+26,tt1829962,6,nm1125275,writer,creator,
+27,tt1829962,7,nm1888967,writer,creator,
+28,tt1829962,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+29,tt1829962,9,nm0230361,producer,producer,
+30,tt1829963,10,nm0230361,producer,producer,
+31,tt1829963,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+32,tt1829963,2,nm0004692,actor,,"[""Robert Baratheon""]"
+33,tt1829963,3,nm0182666,actor,,"[""Jaime Lannister""]"
+34,tt1829963,4,nm0265610,actress,,"[""Catelyn Stark""]"
+35,tt1829963,5,nm1047532,director,,
+36,tt1829963,6,nm1125275,writer,created by,
+37,tt1829963,7,nm1888967,writer,created by,
+38,tt1829963,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+39,tt1829963,9,nm2643685,writer,written by,
+40,tt1829964,10,nm0400240,producer,producer,
+41,tt1829964,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+42,tt1829964,2,nm0004692,actor,,"[""Robert Baratheon""]"
+43,tt1829964,3,nm0182666,actor,,"[""Jaime Lannister""]"
+44,tt1829964,4,nm0265610,actress,,"[""Catelyn Stark""]"
+45,tt1829964,5,nm1047532,director,,
+46,tt1829964,6,nm1125275,writer,created by,
+47,tt1829964,7,nm1888967,writer,created by,
+48,tt1829964,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+49,tt1829964,9,nm0230361,producer,producer,
+50,tt1837862,10,nm0230361,producer,producer,
+51,tt1837862,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+52,tt1837862,2,nm0004692,actor,,"[""Robert Baratheon""]"
+53,tt1837862,3,nm0265610,actress,,"[""Catelyn Stark""]"
+54,tt1837862,4,nm0372176,actress,,"[""Cersei Lannister""]"
+55,tt1837862,5,nm0590889,director,,
+56,tt1837862,6,nm1125275,writer,creator,
+57,tt1837862,7,nm1888967,writer,creator,
+58,tt1837862,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+59,tt1837862,9,nm0260870,writer,teleplay by,
+60,tt1837863,10,nm0400240,producer,producer,
+61,tt1837863,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+62,tt1837863,2,nm0004692,actor,,"[""Robert Baratheon""]"
+63,tt1837863,3,nm0182666,actor,,"[""Jaime Lannister""]"
+64,tt1837863,4,nm0372176,actress,,"[""Cersei Lannister""]"
+65,tt1837863,5,nm0590889,director,,
+66,tt1837863,6,nm1125275,writer,created by,
+67,tt1837863,7,nm1888967,writer,created by,
+68,tt1837863,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+69,tt1837863,9,nm0230361,producer,producer,
+70,tt1837864,10,nm0400240,producer,producer,
+71,tt1837864,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+72,tt1837864,2,nm0265610,actress,,"[""Catelyn Stark""]"
+73,tt1837864,3,nm0372176,actress,,"[""Cersei Lannister""]"
+74,tt1837864,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+75,tt1837864,5,nm0590889,director,,
+76,tt1837864,6,nm1125275,writer,created by,
+77,tt1837864,7,nm1888967,writer,created by,
+78,tt1837864,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+79,tt1837864,9,nm0230361,producer,producer,
+80,tt1851398,10,nm0400240,producer,producer,
+81,tt1851398,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+82,tt1851398,2,nm0265610,actress,,"[""Catelyn Stark""]"
+83,tt1851398,3,nm0182666,actor,,"[""Jaime Lannister""]"
+84,tt1851398,4,nm0372176,actress,,"[""Cersei Lannister""]"
+85,tt1851398,5,nm0851930,director,,
+86,tt1851398,6,nm1125275,writer,created by,
+87,tt1851398,7,nm1888967,writer,created by,
+88,tt1851398,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+89,tt1851398,9,nm0230361,producer,producer,
+90,tt1851397,10,nm0400240,producer,producer,
+91,tt1851397,1,nm0000293,actor,,"[""Eddard 'Ned' Stark""]"
+92,tt1851397,2,nm0265610,actress,,"[""Catelyn Stark""]"
+93,tt1851397,3,nm0182666,actor,,"[""Jaime Lannister""]"
+94,tt1851397,4,nm0372176,actress,,"[""Cersei Lannister""]"
+95,tt1851397,5,nm0851930,director,,
+96,tt1851397,6,nm1125275,writer,created by,
+97,tt1851397,7,nm1888967,writer,created by,
+98,tt1851397,8,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+99,tt1851397,9,nm0230361,producer,producer,
+100,tt1971833,10,nm1014697,composer,,
+101,tt1971833,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+102,tt1971833,2,nm0372176,actress,,"[""Cersei Lannister""]"
+103,tt1971833,3,nm0182666,actor,,"[""Jaime Lannister""]"
+104,tt1971833,4,nm0265610,actress,,"[""Catelyn Stark""]"
+105,tt1971833,5,nm0851930,director,,
+106,tt1971833,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+107,tt1971833,7,nm1125275,writer,created by,
+108,tt1971833,8,nm1888967,writer,created by,
+109,tt1971833,9,nm0146529,producer,producer,
+110,tt2069318,10,nm1014697,composer,,
+111,tt2069318,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+112,tt2069318,2,nm0372176,actress,,"[""Cersei Lannister""]"
+113,tt2069318,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+114,tt2069318,4,nm0318821,actor,,"[""Petyr 'Littlefinger' Baelish""]"
+115,tt2069318,5,nm0851930,director,,
+116,tt2069318,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+117,tt2069318,7,nm1125275,writer,created by,
+118,tt2069318,8,nm1888967,writer,created by,
+119,tt2069318,9,nm0146529,producer,producer,
+120,tt2070135,10,nm0146529,producer,producer,
+121,tt2070135,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+122,tt2070135,2,nm0372176,actress,,"[""Cersei Lannister""]"
+123,tt2070135,3,nm0265610,actress,,"[""Catelyn Stark""]"
+124,tt2070135,4,nm0318821,actor,,"[""Petyr 'Littlefinger' Baelish""]"
+125,tt2070135,5,nm0002399,director,,
+126,tt2070135,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+127,tt2070135,7,nm1125275,writer,created by,
+128,tt2070135,8,nm1888967,writer,created by,
+129,tt2070135,9,nm2643685,writer,written by,
+130,tt2069319,10,nm0146529,producer,producer,
+131,tt2069319,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+132,tt2069319,2,nm0265610,actress,,"[""Catelyn Stark""]"
+133,tt2069319,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+134,tt2069319,4,nm0318821,actor,,"[""Petyr 'Littlefinger' Baelish""]"
+135,tt2069319,5,nm0007008,director,,
+136,tt2069319,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+137,tt2069319,7,nm1125275,writer,created by,
+138,tt2069319,8,nm1888967,writer,created by,
+139,tt2069319,9,nm0961827,writer,written by,
+140,tt2074658,10,nm1014697,composer,,
+141,tt2074658,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+142,tt2074658,2,nm0372176,actress,,"[""Cersei Lannister""]"
+143,tt2074658,3,nm0265610,actress,,"[""Catelyn Stark""]"
+144,tt2074658,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+145,tt2074658,5,nm0007008,director,,
+146,tt2074658,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+147,tt2074658,7,nm1125275,writer,created by,
+148,tt2074658,8,nm1888967,writer,created by,
+149,tt2074658,9,nm0146529,producer,producer,
+150,tt2085238,10,nm0146529,producer,producer,
+151,tt2085238,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+152,tt2085238,2,nm0372176,actress,,"[""Cersei Lannister""]"
+153,tt2085238,3,nm0265610,actress,,"[""Catelyn Stark""]"
+154,tt2085238,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+155,tt2085238,5,nm0638354,director,,
+156,tt2085238,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+157,tt2085238,7,nm1125275,writer,created by,
+158,tt2085238,8,nm1888967,writer,created by,
+159,tt2085238,9,nm0961827,writer,written by,
+160,tt2085239,10,nm1014697,composer,,
+161,tt2085239,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+162,tt2085239,2,nm0372176,actress,,"[""Cersei Lannister""]"
+163,tt2085239,3,nm0182666,actor,,"[""Jaime Lannister""]"
+164,tt2085239,4,nm0265610,actress,,"[""Catelyn Stark""]"
+165,tt2085239,5,nm0638354,director,,
+166,tt2085239,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+167,tt2085239,7,nm1125275,writer,created by,
+168,tt2085239,8,nm1888967,writer,created by,
+169,tt2085239,9,nm0146529,producer,producer,
+170,tt2085240,10,nm1014697,composer,,
+171,tt2085240,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+172,tt2085240,2,nm0372176,actress,,"[""Cersei Lannister""]"
+173,tt2085240,3,nm0182666,actor,,"[""Jaime Lannister""]"
+174,tt2085240,4,nm0265610,actress,,"[""Catelyn Stark""]"
+175,tt2085240,5,nm0851930,director,,
+176,tt2085240,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+177,tt2085240,7,nm1125275,writer,created by,
+178,tt2085240,8,nm1888967,writer,created by,
+179,tt2085240,9,nm0146529,producer,producer,
+180,tt2084342,10,nm1014697,composer,,
+181,tt2084342,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+182,tt2084342,2,nm0372176,actress,,"[""Cersei Lannister""]"
+183,tt2084342,3,nm0001097,actor,,"[""Tywin Lannister""]"
+184,tt2084342,4,nm0192377,actor,,"[""Davos Seaworth""]"
+185,tt2084342,5,nm0551076,director,,
+186,tt2084342,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+187,tt2084342,7,nm1125275,writer,created by,
+188,tt2084342,8,nm1888967,writer,created by,
+189,tt2084342,9,nm0146529,producer,producer,
+190,tt2112510,10,nm1014697,composer,,
+191,tt2112510,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+192,tt2112510,2,nm0372176,actress,,"[""Cersei Lannister""]"
+193,tt2112510,3,nm0182666,actor,,"[""Jaime Lannister""]"
+194,tt2112510,4,nm0265610,actress,,"[""Catelyn Stark""]"
+195,tt2112510,5,nm0851930,director,,
+196,tt2112510,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+197,tt2112510,7,nm1125275,writer,created by,
+198,tt2112510,8,nm1888967,writer,created by,
+199,tt2112510,9,nm0146529,producer,producer,
+200,tt2178782,10,nm0817770,producer,producer,
+201,tt2178782,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+202,tt2178782,2,nm0372176,actress,,"[""Cersei Lannister""]"
+203,tt2178782,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+204,tt2178782,4,nm3229685,actor,,"[""Jon Snow""]"
+205,tt2178782,5,nm0590889,director,,
+206,tt2178782,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+207,tt2178782,7,nm1125275,writer,created by,
+208,tt2178782,8,nm1888967,writer,created by,
+209,tt2178782,9,nm0628040,producer,producer,
+210,tt2178772,10,nm0628040,producer,producer,
+211,tt2178772,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+212,tt2178772,2,nm0182666,actor,,"[""Jaime Lannister""]"
+213,tt2178772,3,nm0372176,actress,,"[""Cersei Lannister""]"
+214,tt2178772,4,nm3229685,actor,,"[""Jon Snow""]"
+215,tt2178772,5,nm0590889,director,,
+216,tt2178772,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+217,tt2178772,7,nm1125275,writer,created by,
+218,tt2178772,8,nm1888967,writer,created by,
+219,tt2178772,9,nm0961827,writer,written for television by,
+220,tt2178802,10,nm1014697,composer,,
+221,tt2178802,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+222,tt2178802,2,nm0182666,actor,,"[""Jaime Lannister""]"
+223,tt2178802,3,nm0372176,actress,,"[""Cersei Lannister""]"
+224,tt2178802,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+225,tt2178802,5,nm1125275,director,,
+226,tt2178802,6,nm1888967,director,,
+227,tt2178802,7,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+228,tt2178802,8,nm0628040,producer,producer,
+229,tt2178802,9,nm0817770,producer,producer,
+230,tt2178798,10,nm0817770,producer,producer,
+231,tt2178798,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+232,tt2178798,2,nm0182666,actor,,"[""Jaime Lannister""]"
+233,tt2178798,3,nm0372176,actress,,"[""Cersei Lannister""]"
+234,tt2178798,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+235,tt2178798,5,nm0336241,director,,
+236,tt2178798,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+237,tt2178798,7,nm1125275,writer,created by,
+238,tt2178798,8,nm1888967,writer,created by,
+239,tt2178798,9,nm0628040,producer,producer,
+240,tt2178788,10,nm0628040,producer,producer,
+241,tt2178788,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+242,tt2178788,2,nm0182666,actor,,"[""Jaime Lannister""]"
+243,tt2178788,3,nm0372176,actress,,"[""Cersei Lannister""]"
+244,tt2178788,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+245,tt2178788,5,nm0336241,director,,
+246,tt2178788,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+247,tt2178788,7,nm1125275,writer,created by,
+248,tt2178788,8,nm1888967,writer,created by,
+249,tt2178788,9,nm2643685,writer,written for television by,
+250,tt2178812,10,nm0817770,producer,producer,
+251,tt2178812,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+252,tt2178812,2,nm0182666,actor,,"[""Jaime Lannister""]"
+253,tt2178812,3,nm0372176,actress,,"[""Cersei Lannister""]"
+254,tt2178812,4,nm3229685,actor,,"[""Jon Snow""]"
+255,tt2178812,5,nm0002399,director,,
+256,tt2178812,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+257,tt2178812,7,nm1125275,writer,created by,
+258,tt2178812,8,nm1888967,writer,created by,
+259,tt2178812,9,nm0628040,producer,producer,
+260,tt2178814,10,nm0817770,producer,producer,
+261,tt2178814,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+262,tt2178814,2,nm0182666,actor,,"[""Jaime Lannister""]"
+263,tt2178814,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+264,tt2178814,4,nm3229685,actor,,"[""Jon Snow""]"
+265,tt2178814,5,nm0533713,director,,
+266,tt2178814,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+267,tt2178814,7,nm1125275,writer,created by,
+268,tt2178814,8,nm1888967,writer,created by,
+269,tt2178814,9,nm0628040,producer,producer,
+270,tt2178806,10,nm0817770,producer,producer,
+271,tt2178806,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+272,tt2178806,2,nm0372176,actress,,"[""Cersei Lannister""]"
+273,tt2178806,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+274,tt2178806,4,nm0322513,actor,,"[""Jorah Mormont""]"
+275,tt2178806,5,nm0533713,director,,
+276,tt2178806,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+277,tt2178806,7,nm1125275,writer,created by,
+278,tt2178806,8,nm1888967,writer,created by,
+279,tt2178806,9,nm0628040,producer,producer,
+280,tt2178784,10,nm0817770,producer,producer,
+281,tt2178784,1,nm3592338,actress,,"[""Daenerys Targaryen""]"
+282,tt2178784,2,nm3229685,actor,,"[""Jon Snow""]"
+283,tt2178784,3,nm0534635,actor,,"[""Robb Stark""]"
+284,tt2178784,4,nm0322513,actor,,"[""Jorah Mormont""]"
+285,tt2178784,5,nm0638354,director,,
+286,tt2178784,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+287,tt2178784,7,nm1125275,writer,created by,
+288,tt2178784,8,nm1888967,writer,created by,
+289,tt2178784,9,nm0628040,producer,producer,
+290,tt2178796,10,nm0817770,producer,producer,
+291,tt2178796,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+292,tt2178796,2,nm0182666,actor,,"[""Jaime Lannister""]"
+293,tt2178796,3,nm0372176,actress,,"[""Cersei Lannister""]"
+294,tt2178796,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+295,tt2178796,5,nm0638354,director,,
+296,tt2178796,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+297,tt2178796,7,nm1125275,writer,created by,
+298,tt2178796,8,nm1888967,writer,created by,
+299,tt2178796,9,nm0628040,producer,producer,
+300,tt2816136,10,nm1014697,composer,,
+301,tt2816136,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+302,tt2816136,2,nm0182666,actor,,"[""Jaime Lannister""]"
+303,tt2816136,3,nm0372176,actress,,"[""Cersei Lannister""]"
+304,tt2816136,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+305,tt2816136,5,nm1888967,director,,
+306,tt2816136,6,nm1125275,director,,
+307,tt2816136,7,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+308,tt2816136,8,nm0628040,producer,producer,
+309,tt2816136,9,nm0817770,producer,producer,
+310,tt2832378,10,nm0817770,producer,producer,
+311,tt2832378,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+312,tt2832378,2,nm0182666,actor,,"[""Jaime Lannister""]"
+313,tt2832378,3,nm0372176,actress,,"[""Cersei Lannister""]"
+314,tt2832378,4,nm0001097,actor,,"[""Tywin Lannister""]"
+315,tt2832378,5,nm0336241,director,,
+316,tt2832378,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+317,tt2832378,7,nm1125275,writer,created by,
+318,tt2832378,8,nm1888967,writer,created by,
+319,tt2832378,9,nm0628040,producer,producer,
+320,tt2972426,10,nm0817770,producer,producer,
+321,tt2972426,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+322,tt2972426,2,nm0182666,actor,,"[""Jaime Lannister""]"
+323,tt2972426,3,nm0372176,actress,,"[""Cersei Lannister""]"
+324,tt2972426,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+325,tt2972426,5,nm0336241,director,,
+326,tt2972426,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+327,tt2972426,7,nm1125275,writer,created by,
+328,tt2972426,8,nm1888967,writer,created by,
+329,tt2972426,9,nm0628040,producer,producer,
+330,tt2972428,10,nm0628040,producer,producer,
+331,tt2972428,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+332,tt2972428,2,nm0182666,actor,,"[""Jaime Lannister""]"
+333,tt2972428,3,nm0372176,actress,,"[""Cersei Lannister""]"
+334,tt2972428,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+335,tt2972428,5,nm0533713,director,,
+336,tt2972428,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+337,tt2972428,7,nm1125275,writer,created by,
+338,tt2972428,8,nm1888967,writer,created by,
+339,tt2972428,9,nm2643685,writer,written for television by,
+340,tt3060856,10,nm0817770,producer,producer,
+341,tt3060856,1,nm0182666,actor,,"[""Jaime Lannister""]"
+342,tt3060856,2,nm0372176,actress,,"[""Cersei Lannister""]"
+343,tt3060856,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+344,tt3060856,4,nm3229685,actor,,"[""Jon Snow""]"
+345,tt3060856,5,nm0533713,director,,
+346,tt3060856,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+347,tt3060856,7,nm1125275,writer,created by,
+348,tt3060856,8,nm1888967,writer,created by,
+349,tt3060856,9,nm0628040,producer,producer,
+350,tt3060910,10,nm0628040,producer,producer,
+351,tt3060910,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+352,tt3060910,2,nm0182666,actor,,"[""Jaime Lannister""]"
+353,tt3060910,3,nm0372176,actress,,"[""Cersei Lannister""]"
+354,tt3060910,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+355,tt3060910,5,nm0002399,director,,
+356,tt3060910,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+357,tt3060910,7,nm1125275,writer,created by,
+358,tt3060910,8,nm1888967,writer,created by,
+359,tt3060910,9,nm2643685,writer,written for television by,
+360,tt3060876,10,nm0817770,producer,producer,
+361,tt3060876,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+362,tt3060876,2,nm0182666,actor,,"[""Jaime Lannister""]"
+363,tt3060876,3,nm0372176,actress,,"[""Cersei Lannister""]"
+364,tt3060876,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+365,tt3060876,5,nm0002399,director,,
+366,tt3060876,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+367,tt3060876,7,nm1125275,writer,created by,
+368,tt3060876,8,nm1888967,writer,created by,
+369,tt3060876,9,nm0628040,producer,producer,
+370,tt3060782,10,nm0817770,producer,producer,
+371,tt3060782,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+372,tt3060782,2,nm0182666,actor,,"[""Jaime Lannister""]"
+373,tt3060782,3,nm0372176,actress,,"[""Cersei Lannister""]"
+374,tt3060782,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+375,tt3060782,5,nm0336241,director,,
+376,tt3060782,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+377,tt3060782,7,nm1125275,writer,created by,
+378,tt3060782,8,nm1888967,writer,created by,
+379,tt3060782,9,nm0628040,producer,producer,
+380,tt3060858,10,nm0817770,producer,producer,
+381,tt3060858,1,nm3229685,actor,,"[""Jon Snow""]"
+382,tt3060858,2,nm4263213,actor,,"[""Samwell Tarly""]"
+383,tt3060858,3,nm2356940,actress,,"[""Gilly""]"
+384,tt3060858,4,nm3310211,actress,,"[""Ygritte""]"
+385,tt3060858,5,nm0551076,director,,
+386,tt3060858,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+387,tt3060858,7,nm1125275,writer,created by,
+388,tt3060858,8,nm1888967,writer,created by,
+389,tt3060858,9,nm0628040,producer,producer,
+390,tt3060860,10,nm0817770,producer,producer,
+391,tt3060860,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+392,tt3060860,2,nm0182666,actor,,"[""Jaime Lannister""]"
+393,tt3060860,3,nm0372176,actress,,"[""Cersei Lannister""]"
+394,tt3060860,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+395,tt3060860,5,nm0336241,director,,
+396,tt3060860,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+397,tt3060860,7,nm1125275,writer,created by,
+398,tt3060860,8,nm1888967,writer,created by,
+399,tt3060860,9,nm0628040,producer,producer,
+400,tt3658012,10,nm2643685,producer,producer,
+401,tt3658012,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+402,tt3658012,2,nm0182666,actor,,"[""Jaime Lannister""]"
+403,tt3658012,3,nm0372176,actress,,"[""Cersei Lannister""]"
+404,tt3658012,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+405,tt3658012,5,nm0806252,director,,
+406,tt3658012,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+407,tt3658012,7,nm1125275,writer,created by,
+408,tt3658012,8,nm1888967,writer,created by,
+409,tt3658012,9,nm4984276,writer,staff writer,
+410,tt3846626,10,nm2643685,producer,producer,
+411,tt3846626,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+412,tt3846626,2,nm0182666,actor,,"[""Jaime Lannister""]"
+413,tt3846626,3,nm0372176,actress,,"[""Cersei Lannister""]"
+414,tt3846626,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+415,tt3846626,5,nm0806252,director,,
+416,tt3846626,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+417,tt3846626,7,nm1125275,writer,created by,
+418,tt3846626,8,nm1888967,writer,created by,
+419,tt3846626,9,nm4984276,writer,staff writer,
+420,tt3866836,10,nm2643685,producer,producer,
+421,tt3866836,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+422,tt3866836,2,nm0372176,actress,,"[""Cersei Lannister""]"
+423,tt3866836,3,nm3229685,actor,,"[""Jon Snow""]"
+424,tt3866836,4,nm0318821,actor,,"[""Petyr 'Littlefinger' Baelish""]"
+425,tt3866836,5,nm0617042,director,,
+426,tt3866836,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+427,tt3866836,7,nm1125275,writer,created by,
+428,tt3866836,8,nm1888967,writer,created by,
+429,tt3866836,9,nm4984276,writer,staff writer,
+430,tt3866838,10,nm2643685,producer,producer,
+431,tt3866838,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+432,tt3866838,2,nm0182666,actor,,"[""Jaime Lannister""]"
+433,tt3866838,3,nm0372176,actress,,"[""Cersei Lannister""]"
+434,tt3866838,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+435,tt3866838,5,nm0617042,director,,
+436,tt3866838,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+437,tt3866838,7,nm1125275,writer,created by,
+438,tt3866838,8,nm1888967,writer,created by,
+439,tt3866838,9,nm4984276,writer,written for television by,
+440,tt3866840,10,nm4984276,writer,staff writer,
+441,tt3866840,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+442,tt3866840,2,nm3592338,actress,,"[""Daenerys Targaryen""]"
+443,tt3866840,3,nm3229685,actor,,"[""Jon Snow""]"
+444,tt3866840,4,nm0226820,actor,,"[""Stannis Baratheon""]"
+445,tt3866840,5,nm0687964,director,,
+446,tt3866840,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+447,tt3866840,7,nm1125275,writer,created by,
+448,tt3866840,8,nm1888967,writer,created by,
+449,tt3866840,9,nm2643685,writer,written for television by,
+450,tt3866842,10,nm4984276,writer,staff writer,
+451,tt3866842,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+452,tt3866842,2,nm0182666,actor,,"[""Jaime Lannister""]"
+453,tt3866842,3,nm0372176,actress,,"[""Cersei Lannister""]"
+454,tt3866842,4,nm0318821,actor,,"[""Petyr 'Littlefinger' Baelish""]"
+455,tt3866842,5,nm0687964,director,,
+456,tt3866842,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+457,tt3866842,7,nm1125275,writer,created by,
+458,tt3866842,8,nm1888967,writer,created by,
+459,tt3866842,9,nm2643685,writer,written for television by,
+460,tt3866846,10,nm2643685,producer,producer,
+461,tt3866846,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+462,tt3866846,2,nm0182666,actor,,"[""Jaime Lannister""]"
+463,tt3866846,3,nm0372176,actress,,"[""Cersei Lannister""]"
+464,tt3866846,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+465,tt3866846,5,nm0764601,director,,
+466,tt3866846,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+467,tt3866846,7,nm1125275,writer,created by,
+468,tt3866846,8,nm1888967,writer,created by,
+469,tt3866846,9,nm4984276,writer,staff writer,
+470,tt3866850,10,nm2643685,producer,producer,
+471,tt3866850,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+472,tt3866850,2,nm0372176,actress,,"[""Cersei Lannister""]"
+473,tt3866850,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+474,tt3866850,4,nm3229685,actor,,"[""Jon Snow""]"
+475,tt3866850,5,nm0764601,director,,
+476,tt3866850,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+477,tt3866850,7,nm1125275,writer,created by,
+478,tt3866850,8,nm1888967,writer,created by,
+479,tt3866850,9,nm4984276,writer,staff writer,
+480,tt3866826,10,nm2643685,producer,producer,
+481,tt3866826,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+482,tt3866826,2,nm0182666,actor,,"[""Jaime Lannister""]"
+483,tt3866826,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+484,tt3866826,4,nm3229685,actor,,"[""Jon Snow""]"
+485,tt3866826,5,nm0638354,director,,
+486,tt3866826,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+487,tt3866826,7,nm1125275,writer,created by,
+488,tt3866826,8,nm1888967,writer,created by,
+489,tt3866826,9,nm4984276,writer,staff writer,
+490,tt3866862,10,nm2643685,producer,producer,
+491,tt3866862,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+492,tt3866862,2,nm0182666,actor,,"[""Jaime Lannister""]"
+493,tt3866862,3,nm0372176,actress,,"[""Cersei Lannister""]"
+494,tt3866862,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+495,tt3866862,5,nm0638354,director,,
+496,tt3866862,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+497,tt3866862,7,nm1125275,writer,created by,
+498,tt3866862,8,nm1888967,writer,created by,
+499,tt3866862,9,nm4984276,writer,staff writer,
+500,tt3658014,10,nm0628040,producer,producer,
+501,tt3658014,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+502,tt3658014,2,nm0182666,actor,,"[""Jaime Lannister""]"
+503,tt3658014,3,nm0372176,actress,,"[""Cersei Lannister""]"
+504,tt3658014,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+505,tt3658014,5,nm0687964,director,,
+506,tt3658014,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+507,tt3658014,7,nm1125275,writer,created by,
+508,tt3658014,8,nm1888967,writer,created by,
+509,tt3658014,9,nm1380874,producer,producer,
+510,tt4077554,10,nm1380874,producer,producer,
+511,tt4077554,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+512,tt4077554,2,nm0182666,actor,,"[""Jaime Lannister""]"
+513,tt4077554,3,nm0372176,actress,,"[""Cersei Lannister""]"
+514,tt4077554,4,nm3229685,actor,,"[""Jon Snow""]"
+515,tt4077554,5,nm0687964,director,,
+516,tt4077554,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+517,tt4077554,7,nm1125275,writer,created by,
+518,tt4077554,8,nm1888967,writer,created by,
+519,tt4077554,9,nm4984276,writer,written for television by,
+520,tt4131606,10,nm0628040,producer,producer,
+521,tt4131606,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+522,tt4131606,2,nm0182666,actor,,"[""Jaime Lannister""]"
+523,tt4131606,3,nm0372176,actress,,"[""Cersei Lannister""]"
+524,tt4131606,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+525,tt4131606,5,nm0755261,director,,
+526,tt4131606,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+527,tt4131606,7,nm1125275,writer,created by,
+528,tt4131606,8,nm1888967,writer,created by,
+529,tt4131606,9,nm1380874,producer,producer,
+530,tt4283016,10,nm0628040,producer,producer,
+531,tt4283016,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+532,tt4283016,2,nm0182666,actor,,"[""Jaime Lannister""]"
+533,tt4283016,3,nm0372176,actress,,"[""Cersei Lannister""]"
+534,tt4283016,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+535,tt4283016,5,nm0755261,director,,
+536,tt4283016,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+537,tt4283016,7,nm1125275,writer,created by,
+538,tt4283016,8,nm1888967,writer,created by,
+539,tt4283016,9,nm1380874,producer,producer,
+540,tt4283028,10,nm0628040,producer,producer,
+541,tt4283028,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+542,tt4283028,2,nm3592338,actress,,"[""Daenerys Targaryen""]"
+543,tt4283028,3,nm3229685,actor,,"[""Jon Snow""]"
+544,tt4283028,4,nm0318821,actor,,"[""Petyr 'Littlefinger' Baelish""]"
+545,tt4283028,5,nm0070474,director,,
+546,tt4283028,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+547,tt4283028,7,nm1125275,writer,created by,
+548,tt4283028,8,nm1888967,writer,created by,
+549,tt4283028,9,nm1380874,producer,producer,
+550,tt4283054,10,nm1380874,producer,producer,
+551,tt4283054,1,nm0182666,actor,,"[""Jaime Lannister""]"
+552,tt4283054,2,nm0372176,actress,,"[""Cersei Lannister""]"
+553,tt4283054,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+554,tt4283054,4,nm1754059,actress,,"[""Margaery Tyrell""]"
+555,tt4283054,5,nm0070474,director,,
+556,tt4283054,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+557,tt4283054,7,nm1125275,writer,created by,
+558,tt4283054,8,nm1888967,writer,created by,
+559,tt4283054,9,nm2643685,writer,written for television by,
+560,tt4283060,10,nm1380874,producer,producer,
+561,tt4283060,1,nm0182666,actor,,"[""Jaime Lannister""]"
+562,tt4283060,2,nm0372176,actress,,"[""Cersei Lannister""]"
+563,tt4283060,3,nm3229685,actor,,"[""Jon Snow""]"
+564,tt4283060,4,nm1754059,actress,,"[""Margaery Tyrell""]"
+565,tt4283060,5,nm0617042,director,,
+566,tt4283060,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+567,tt4283060,7,nm1125275,writer,created by,
+568,tt4283060,8,nm1888967,writer,created by,
+569,tt4283060,9,nm2643685,writer,written for television by,
+570,tt4283074,10,nm0628040,producer,producer,
+571,tt4283074,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+572,tt4283074,2,nm0182666,actor,,"[""Jaime Lannister""]"
+573,tt4283074,3,nm0372176,actress,,"[""Cersei Lannister""]"
+574,tt4283074,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+575,tt4283074,5,nm0617042,director,,
+576,tt4283074,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+577,tt4283074,7,nm1125275,writer,created by,
+578,tt4283074,8,nm1888967,writer,created by,
+579,tt4283074,9,nm1380874,producer,producer,
+580,tt4283088,10,nm0628040,producer,producer,
+581,tt4283088,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+582,tt4283088,2,nm3229685,actor,,"[""Jon Snow""]"
+583,tt4283088,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+584,tt4283088,4,nm0192377,actor,,"[""Davos Seaworth""]"
+585,tt4283088,5,nm0764601,director,,
+586,tt4283088,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+587,tt4283088,7,nm1125275,writer,created by,
+588,tt4283088,8,nm1888967,writer,created by,
+589,tt4283088,9,nm1380874,producer,producer,
+590,tt4283094,10,nm0628040,producer,producer,
+591,tt4283094,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+592,tt4283094,2,nm0182666,actor,,"[""Jaime Lannister""]"
+593,tt4283094,3,nm0372176,actress,,"[""Cersei Lannister""]"
+594,tt4283094,4,nm3229685,actor,,"[""Jon Snow""]"
+595,tt4283094,5,nm0764601,director,,
+596,tt4283094,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+597,tt4283094,7,nm1125275,writer,created by,
+598,tt4283094,8,nm1888967,writer,created by,
+599,tt4283094,9,nm1380874,producer,producer,
+600,tt5654088,10,nm0628040,producer,producer,
+601,tt5654088,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+602,tt5654088,2,nm0182666,actor,,"[""Jaime Lannister""]"
+603,tt5654088,3,nm0372176,actress,,"[""Cersei Lannister""]"
+604,tt5654088,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+605,tt5654088,5,nm0687964,director,,
+606,tt5654088,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+607,tt5654088,7,nm1125275,writer,created by,
+608,tt5654088,8,nm1888967,writer,created by,
+609,tt5654088,9,nm1380874,producer,producer,
+610,tt5655178,10,nm1380874,producer,producer,
+611,tt5655178,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+612,tt5655178,2,nm0182666,actor,,"[""Jaime Lannister""]"
+613,tt5655178,3,nm0372176,actress,,"[""Cersei Lannister""]"
+614,tt5655178,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+615,tt5655178,5,nm0617042,director,,
+616,tt5655178,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+617,tt5655178,7,nm1125275,writer,created by,
+618,tt5655178,8,nm1888967,writer,created by,
+619,tt5655178,9,nm2643685,writer,written for television by,
+620,tt5775840,10,nm0628040,producer,producer,
+621,tt5775840,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+622,tt5775840,2,nm0182666,actor,,"[""Jaime Lannister""]"
+623,tt5775840,3,nm0372176,actress,,"[""Cersei Lannister""]"
+624,tt5775840,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+625,tt5775840,5,nm0617042,director,,
+626,tt5775840,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+627,tt5775840,7,nm1125275,writer,created by,
+628,tt5775840,8,nm1888967,writer,created by,
+629,tt5775840,9,nm1380874,producer,producer,
+630,tt5775846,10,nm0628040,producer,producer,
+631,tt5775846,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+632,tt5775846,2,nm0182666,actor,,"[""Jaime Lannister""]"
+633,tt5775846,3,nm0372176,actress,,"[""Cersei Lannister""]"
+634,tt5775846,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+635,tt5775846,5,nm0787687,director,,
+636,tt5775846,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+637,tt5775846,7,nm1125275,writer,created by,
+638,tt5775846,8,nm1888967,writer,created by,
+639,tt5775846,9,nm1380874,producer,producer,
+640,tt5775854,10,nm1380874,producer,producer,
+641,tt5775854,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+642,tt5775854,2,nm0182666,actor,,"[""Jaime Lannister""]"
+643,tt5775854,3,nm0372176,actress,,"[""Cersei Lannister""]"
+644,tt5775854,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+645,tt5775854,5,nm0787687,director,,
+646,tt5775854,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+647,tt5775854,7,nm1125275,writer,created by,
+648,tt5775854,8,nm1888967,writer,created by,
+649,tt5775854,9,nm4984276,writer,written for television by,
+650,tt5775864,10,nm0628040,producer,producer,
+651,tt5775864,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+652,tt5775864,2,nm3592338,actress,,"[""Daenerys Targaryen""]"
+653,tt5775864,3,nm3229685,actor,,"[""Jon Snow""]"
+654,tt5775864,4,nm0318821,actor,,"[""Petyr 'Littlefinger' Baelish""]"
+655,tt5775864,5,nm0851930,director,,
+656,tt5775864,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+657,tt5775864,7,nm1125275,writer,created by,
+658,tt5775864,8,nm1888967,writer,created by,
+659,tt5775864,9,nm1380874,producer,producer,
+660,tt5775874,10,nm1380874,producer,producer,
+661,tt5775874,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+662,tt5775874,2,nm0182666,actor,,"[""Jaime Lannister""]"
+663,tt5775874,3,nm0372176,actress,,"[""Cersei Lannister""]"
+664,tt5775874,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+665,tt5775874,5,nm0687964,director,,
+666,tt5775874,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+667,tt5775874,7,nm1125275,writer,created by,
+668,tt5775874,8,nm1888967,writer,created by,
+669,tt5775874,9,nm4984276,writer,executive story editor,
+670,tt5924366,10,nm2977599,writer,staff writer,
+671,tt5924366,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+672,tt5924366,2,nm0182666,actor,,"[""Jaime Lannister""]"
+673,tt5924366,3,nm0372176,actress,,"[""Cersei Lannister""]"
+674,tt5924366,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+675,tt5924366,5,nm0638354,director,,
+676,tt5924366,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+677,tt5924366,7,nm1125275,writer,created by,
+678,tt5924366,8,nm1888967,writer,created by,
+679,tt5924366,9,nm4984276,writer,written for television by,
+680,tt6027908,10,nm7260047,writer,staff writer,
+681,tt6027908,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+682,tt6027908,2,nm0182666,actor,,"[""Jaime Lannister""]"
+683,tt6027908,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+684,tt6027908,4,nm3229685,actor,,"[""Jon Snow""]"
+685,tt6027908,5,nm0638354,director,,
+686,tt6027908,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+687,tt6027908,7,nm1125275,writer,created by,
+688,tt6027908,8,nm1888967,writer,created by,
+689,tt6027908,9,nm2643685,writer,written for television by,
+690,tt6027912,10,nm7260047,writer,staff writer,
+691,tt6027912,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+692,tt6027912,2,nm0182666,actor,,"[""Jaime Lannister""]"
+693,tt6027912,3,nm3592338,actress,,"[""Daenerys Targaryen""]"
+694,tt6027912,4,nm3229685,actor,,"[""Jon Snow""]"
+695,tt6027912,5,nm0764601,director,,
+696,tt6027912,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+697,tt6027912,7,nm1125275,writer,created by,
+698,tt6027912,8,nm1888967,writer,created by,
+699,tt6027912,9,nm2977599,writer,staff writer,
+700,tt6027914,10,nm2977599,writer,staff writer,
+701,tt6027914,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+702,tt6027914,2,nm0182666,actor,,"[""Jaime Lannister""]"
+703,tt6027914,3,nm0372176,actress,,"[""Cersei Lannister""]"
+704,tt6027914,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+705,tt6027914,5,nm0638354,director,,
+706,tt6027914,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+707,tt6027914,7,nm1125275,writer,created by,
+708,tt6027914,8,nm1888967,writer,created by,
+709,tt6027914,9,nm7260047,writer,staff writer,
+710,tt6027916,10,nm7260047,writer,staff writer,
+711,tt6027916,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+712,tt6027916,2,nm0182666,actor,,"[""Jaime Lannister""]"
+713,tt6027916,3,nm0372176,actress,,"[""Cersei Lannister""]"
+714,tt6027916,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+715,tt6027916,5,nm0764601,director,,
+716,tt6027916,6,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+717,tt6027916,7,nm1125275,writer,created by,
+718,tt6027916,8,nm1888967,writer,created by,
+719,tt6027916,9,nm2977599,writer,staff writer,
+720,tt6027920,10,nm1380874,producer,producer,
+721,tt6027920,1,nm0227759,actor,,"[""Tyrion Lannister""]"
+722,tt6027920,2,nm0182666,actor,,"[""Jaime Lannister""]"
+723,tt6027920,3,nm0372176,actress,,"[""Cersei Lannister""]"
+724,tt6027920,4,nm3592338,actress,,"[""Daenerys Targaryen""]"
+725,tt6027920,5,nm1125275,director,,
+726,tt6027920,6,nm1888967,director,,
+727,tt6027920,7,nm0552333,writer,"based on ""A Song of Ice and Fire"" by",
+728,tt6027920,8,nm2977599,writer,staff writer,
+729,tt6027920,9,nm7260047,writer,staff writer,
